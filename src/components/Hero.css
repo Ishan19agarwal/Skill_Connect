@@ -1,0 +1,13 @@
+.hero-img{
+    height: 400px;
+    width: 500px;
+}
+
+.hero-head{
+    font-weight:bolder;
+    font-size: 70px;
+}
+
+.hero-des{
+    font-size: larger;
+}
